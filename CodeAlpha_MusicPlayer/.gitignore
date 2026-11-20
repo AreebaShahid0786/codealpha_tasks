@@ -1,0 +1,6 @@
+# Keep personal / copyrighted music off GitHub
+songs/*
+!songs/README.md
+
+# Your personal playlist (created by update-playlist.bat)
+js/my-songs.js
